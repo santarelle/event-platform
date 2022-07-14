@@ -10,16 +10,16 @@
 
 <p align="center">
 
-  ![Vercel](https://vercelbadge.vercel.app/api/santarelle/event-platform?style=flat)
-
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/santarelle/event-platform" />
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/santarelle/event-platform" />
-  
+  <img alt="build" src="https://vercelbadge.vercel.app/api/santarelle/event-platform?style=flat">
+  <a href="https://img.shields.io/github/languages/top/santarelle/event-platform">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/santarelle/event-platform">
+  </a>
+  <a href="https://img.shields.io/github/repo-size/santarelle/event-platform">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/santarelle/event-platform">
+  </a>
   <a href="https://github.com/santarelle/recipe-app/commits/master">
     <img alt="Last commit date" src="https://img.shields.io/github/last-commit/santarelle/event-platform" />
   </a>
-  
   <a href="https://github.com/santarelle/recipe-app/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/santarelle/event-platform">
   </a>
