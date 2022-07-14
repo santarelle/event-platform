@@ -9,6 +9,9 @@
 </h3>
 
 <p align="center">
+
+  ![Vercel](https://vercelbadge.vercel.app/api/santarelle/event-platform?style=flat)
+
   <img alt="Top Language" src="https://img.shields.io/github/languages/top/santarelle/event-platform" />
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/santarelle/event-platform" />
@@ -86,4 +89,4 @@ npm run dev
 * Github: [@santarelle](https://github.com/santarelle)
 ---
 
-Made by :heartbeat: by [Marco Jardim](https://github.com/santarelle)
+Made by :heart: by [Marco Jardim](https://github.com/santarelle)
